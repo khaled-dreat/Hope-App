@@ -1,16 +1,82 @@
-# hope_app
+The application of management and organization of records for elderly homes (HOPE - HOPE), specialized in assisting and organizing the supervisor's team and providing optimal assistance to residents.
+# What I learned
+* Widgets
+**LIstView.Builder
 
-A new Flutter project.
+** GridView
 
-## Getting Started
+** Responsive UI
 
-This project is a starting point for a Flutter application.
+** RESTAPI
 
-A few resources to get you started if this is your first Flutter project:
+** GridTile
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+** ListTile
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+** DataBase Sqflite
+
+** Routes
+
+** TabBar
+
+** TabBarView
+
+** Sync & Async
+
+** Future / Stream
+
+** Loading
+
+** Toast
+
+** Timer
+
+** Duration
+
+** Splash Screen
+
+** Alert Dialog
+
+** WebView
+
+** Validator
+
+** Svg Image
+
+** Drawer
+
+** Manage State(Provider)
+
+** Firebase
+
+** FutureBuilder
+
+** StreamBuilder
+
+** Firebase Auth
+
+** Firebase DataBase
+
+** Form
+** TextField
+** Storage Firebase
+** Delayed
+** Type Button
+** Switch
+** Animation
+** Image picker
+** Drop down button
+** CheckBox/Radio
+** Map
+** forEach vs map
+** Stack
+** Wrap
+** Enum
+** Spread Operator
+** Positioned
+** Align
+** Factory Pattern
+** Part of impert
+
+**RichText
+**TextSpan
