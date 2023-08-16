@@ -1,6 +1,6 @@
 The application of management and organization of records for elderly homes (HOPE - HOPE), specialized in assisting and organizing the supervisor's team and providing optimal assistance to residents.
 # What I learned
-
+</br>
 ##Widgets
 
 - LIstView.Builder
@@ -31,6 +31,7 @@ The application of management and organization of records for elderly homes (HOP
 - Align
 -RichText
 -TextSpan
+</br>
 
 ##Service
 - Language
