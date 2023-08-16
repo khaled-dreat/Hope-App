@@ -1,82 +1,82 @@
 The application of management and organization of records for elderly homes (HOPE - HOPE), specialized in assisting and organizing the supervisor's team and providing optimal assistance to residents.
 # What I learned
 * Widgets
-**LIstView.Builder
+- LIstView.Builder
 
-** GridView
+- GridView
 
-** Responsive UI
+- Responsive UI
 
-** RESTAPI
+- RESTAPI
 
-** GridTile
+- GridTile
 
-** ListTile
+- ListTile
 
-** DataBase Sqflite
+- DataBase Sqflite
 
-** Routes
+- Routes
 
-** TabBar
+- TabBar
 
-** TabBarView
+- TabBarView
 
-** Sync & Async
+- Sync & Async
 
-** Future / Stream
+- Future / Stream
 
-** Loading
+- Loading
 
-** Toast
+- Toast
 
-** Timer
+- Timer
 
-** Duration
+- Duration
 
-** Splash Screen
+- Splash Screen
 
-** Alert Dialog
+- Alert Dialog
 
-** WebView
+- WebView
 
-** Validator
+- Validator
 
-** Svg Image
+- Svg Image
 
-** Drawer
+- Drawer
 
-** Manage State(Provider)
+- Manage State(Provider)
 
-** Firebase
+- Firebase
 
-** FutureBuilder
+- FutureBuilder
 
-** StreamBuilder
+- StreamBuilder
 
-** Firebase Auth
+- Firebase Auth
 
-** Firebase DataBase
+- Firebase DataBase
 
-** Form
-** TextField
-** Storage Firebase
-** Delayed
-** Type Button
-** Switch
-** Animation
-** Image picker
-** Drop down button
-** CheckBox/Radio
-** Map
-** forEach vs map
-** Stack
-** Wrap
-** Enum
-** Spread Operator
-** Positioned
-** Align
-** Factory Pattern
-** Part of impert
+- Form
+- TextField
+- Storage Firebase
+- Delayed
+- Type Button
+- Switch
+- Animation
+- Image picker
+- Drop down button
+- CheckBox/Radio
+- Map
+- forEach vs map
+- Stack
+- Wrap
+- Enum
+- Spread Operator
+- Positioned
+- Align
+- Factory Pattern
+- Part of impert
 
-**RichText
-**TextSpan
+-RichText
+-TextSpan
