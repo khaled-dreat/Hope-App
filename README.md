@@ -1,9 +1,9 @@
 The application of management and organization of records for elderly homes (HOPE - HOPE), specialized in assisting and organizing the supervisor's team and providing optimal assistance to residents.
 # What I learned
 </br>
-##Widgets
 </br>
 
+## Widgets
 - LIstView.Builder
 - GridView
 - RESTAPI
@@ -33,8 +33,9 @@ The application of management and organization of records for elderly homes (HOP
 -RichText
 -TextSpan
 </br>
+</br>
 
-##Service
+## Service
 - Language
 - Theme
 - Responsive UI
